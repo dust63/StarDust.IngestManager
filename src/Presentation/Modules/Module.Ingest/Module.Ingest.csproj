@@ -2,8 +2,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <UseWPF>true</UseWPF>
-    <AssemblyName>StartDust.IngestManager.Module.Ingest</AssemblyName>
-    <RootNamespace>StartDust.IngestManager.Module.Ingest</RootNamespace>
+    <AssemblyName>StarDust.IngestManager.Module.Ingest</AssemblyName>
+    <RootNamespace>StarDust.IngestManager.Module.Ingest</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Prism.Wpf" Version="7.2.0.1367" />

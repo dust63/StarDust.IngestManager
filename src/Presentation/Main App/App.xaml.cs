@@ -1,12 +1,12 @@
 ﻿using System.Configuration;
 using System.IO;
 using Prism.Ioc;
-using StartDust.IngestManager.Views;
+using StarDust.IngestManager.Views;
 using System.Windows;
 using Prism.Modularity;
-using StartDust.IngestManager.Module.Ingest;
+using StarDust.IngestManager.Module.Ingest;
 
-namespace StartDust.IngestManager
+namespace StarDust.IngestManager
 {
     /// <summary>
     /// Interaction logic for App.xaml

@@ -1,9 +1,9 @@
 ﻿using Prism.Mvvm;
 using Prism.Regions;
-using StartDust.IngestManager.Crosscutting;
-using StartDust.IngestManager.Module.Ingest.Views;
+using StarDust.IngestManager.Crosscutting;
+using StarDust.IngestManager.Module.Ingest.Views;
 
-namespace StartDust.IngestManager.ViewModels
+namespace StarDust.IngestManager.ViewModels
 {
     public class MainWindowViewModel : BindableBase
     {

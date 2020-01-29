@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StartDust.IngestManager.Crosscutting
+namespace StarDust.IngestManager.Crosscutting
 {
     public static class RegionNames
     {

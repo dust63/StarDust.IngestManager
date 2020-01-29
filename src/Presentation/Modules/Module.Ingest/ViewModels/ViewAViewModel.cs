@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StartDust.IngestManager.Module.Ingest.ViewModels
+namespace StarDust.IngestManager.Module.Ingest.ViewModels
 {
     public class ViewAViewModel : BindableBase
     {

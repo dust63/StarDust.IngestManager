@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace StartDust.IngestManager.Views
+namespace StarDust.IngestManager.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

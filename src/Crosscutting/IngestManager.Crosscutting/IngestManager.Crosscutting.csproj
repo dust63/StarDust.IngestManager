@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <RootNamespace>StartDust.IngestManager.Crosscutting</RootNamespace>
-    <AssemblyName>StartDust.IngestManager.Crosscutting</AssemblyName>
+    <RootNamespace>StarDust.IngestManager.Crosscutting</RootNamespace>
+    <AssemblyName>StarDust.IngestManager.Crosscutting</AssemblyName>
   </PropertyGroup>
 
 </Project>

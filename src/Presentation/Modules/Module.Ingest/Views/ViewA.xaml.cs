@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace StartDust.IngestManager.Module.Ingest.Views
+namespace StarDust.IngestManager.Module.Ingest.Views
 {
     /// <summary>
     /// Interaction logic for ViewA.xaml
